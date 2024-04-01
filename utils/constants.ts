@@ -3,8 +3,8 @@ import { baseSepolia } from "thirdweb/chains";
 import { embeddedWallet } from "thirdweb/wallets";
 
 export const appMetadata = {
-  name: "Cat Attack",
-  url: "https://catattack.thirdweb.com",
+  name: "TUT",
+  url: "https://tut.luvnft.com",
 };
 
 export const CLIENT_ID = process.env.NEXT_PUBLIC_THIRDWEB_CLIENT_ID || "";

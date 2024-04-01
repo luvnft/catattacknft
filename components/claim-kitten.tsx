@@ -26,7 +26,7 @@ const ClaimKitten: React.FC = () => {
           src="/cat-attack.png"
           width={400}
           height={320}
-          alt="Cat Attack"
+          alt="TUT"
         />
       </div>
       <ClaimKittenButton />
